@@ -3,7 +3,7 @@
 A **personal monthly budget tracker** you install on your phone or computer like an app. It works without an account, without a server, and without an internet connection after the first load. Your data never leaves your device unless you choose to export it.
 
 Built as a **Progressive Web App (PWA)** with vanilla HTML, CSS, and JavaScript — no build step, no framework, no backend.
-
+https://budget-police.vercel.app/
 ---
 
 ## At a glance
